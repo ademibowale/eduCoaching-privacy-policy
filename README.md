@@ -1,11 +1,11 @@
-# eduCoaching-privacy-policy
+# EduCoaching-privacy-policy
 
 📄 Privacy Policy for EduCoaching
 Effective Date: [Insert Date]
 Last Updated: [Insert Date]
 Contact: hytechcity@gmail.com
 
-EduCoaching ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect your personal data when you use our educational app.
+# EduCoaching ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect your personal data when you use our educational app.
 
 1. Information We Collect
 We may collect the following information:
